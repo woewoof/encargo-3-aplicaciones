@@ -1,3 +1,3 @@
 # encargo-3-aplicaciones
-proyecto aplicaciones moviles
-me falta cambiar nombre y fto app
+es pastelitos.zip
+no se bien cmo s eusa github ni q es un commit, pero estan ambos avances
